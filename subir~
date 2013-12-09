@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "imagenes"
-git push
+git push http://github.com/jmanday/Imagenes
